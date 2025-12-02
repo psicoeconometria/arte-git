@@ -2,6 +2,10 @@
 
 Este é um projeto de demonstração workflow Git/GitHub.
 
+# Autores
+
+Pablo Rogers e Ricardo Limongi
+
 # Estrutura
 
 # License
